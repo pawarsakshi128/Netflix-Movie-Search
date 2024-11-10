@@ -1,0 +1,18 @@
+name: flutter_netflix_clone
+description: A Netflix-inspired Flutter app
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2 # For making API requests
+  cached_network_image: ^3.2.0 # For caching images
+  animations: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
+environment:
+  sdk: '^3.6.0-334.3.beta'
