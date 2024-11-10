@@ -1,16 +1,14 @@
-# movie_search
+🎬 Movie Search App
+A sleek, Netflix-inspired Flutter app for browsing and discovering movies! With this app, you can explore movies, view details, and search for your favorite titles — all powered by the TVMaze API.
 
-A new Flutter project.
+✨ Features
+Splash Screen with a stylish logo animation
+Home Screen: Browse movies with thumbnail, title, and summary
+Search Screen: Find movies with a dynamic search bar
+Details Screen: Dive deeper into each movie with extended details
+Bottom Navigation for smooth navigation between Home and Search
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🔧 Built With
+Flutter for fast and beautiful UI
+http package for seamless API calls
+TVMaze API for movie data
